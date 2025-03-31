@@ -26,9 +26,9 @@
   "author": "Paul Anderson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pandapaul/minecraft-items/issues"
+    "url": "https://github.com/Kerberos91/minecraft-items/issues"
   },
-  "homepage": "https://github.com/pandapaul/minecraft-items#readme",
+  "homepage": "https://github.com/Kerberos91/minecraft-items#readme",
   "devDependencies": {
     "adm-zip": "^0.4.7",
     "fs-extra": "^3.0.1",
